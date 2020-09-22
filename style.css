@@ -54,3 +54,18 @@
 } 
 
 
+
+@media(max-width:414px){
+    .sounds{
+        background-image: url(./john-matychuk-gUK3lA3K7Yo-unsplash.jpg);
+        background-repeat: repeat-x;
+    }
+    .box{
+        display: flex;
+        position: relative;
+        top:-10px;
+    }
+    .key{
+        font-size: 1.7em;
+    }
+}
